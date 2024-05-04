@@ -1498,6 +1498,9 @@
   "/diershoubing/news": [
     "wushijishan"
   ],
+  "/digitalcameraworld/news": [
+    "EthanWng97"
+  ],
   "/discord/channel/:channelId": [
     "TonyRL"
   ],
@@ -3302,7 +3305,10 @@
   "/kepu/live": [
     "nczitzk"
   ],
-  "/keylol*": [],
+  "/keylol/:path": [
+    "nczitzk",
+    "kennyfong19931"
+  ],
   "/kimlaw/thesis": [
     "TonyRL"
   ],
